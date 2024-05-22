@@ -2,7 +2,7 @@
 ClanQuest - The 2D Adventure game from VRF Studios
 
 Story ideas:
-You just woke up after and are horrified to discover that your clan is unprepared for the big Day 1 raid race!
+You just woke up after a long night and are horrified to discover that your clan is unprepared for the big Day 1 raid race!
 
 Help your clanmates prepare and get ready by solving puzzles and hunting for the missing items
 they need so you can all crush it and get World's First!
